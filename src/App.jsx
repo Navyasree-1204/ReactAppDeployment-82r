@@ -5,7 +5,7 @@ function App() {
   return (
     <>
     <h1> Hello, This Is Navya Sree</h1>
-    <p> I am Navya Sree , studing B-Tech final year at Bhoj Reddy Engineering College for Women in the field of Information Technology . 
+    <p> I am Navya Sree , studying B-Tech final year at Bhoj Reddy Engineering College for Women in the field of Information Technology . 
       My native place is Andhar Pradesh, and I am currently settled in Hyderabad , bandlaguda jagir .. </p>
       <button>Click To Know</button>
       <h3> My Education Background</h3>
